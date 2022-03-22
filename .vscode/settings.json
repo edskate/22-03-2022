@@ -1,0 +1,12 @@
+{
+              "workbench.colorCustomizations": {
+                            "titleBar.activeBackground": "#be8719"
+              },
+              "spellchecker.ignoreWordsList": [
+                            "whith",
+                            "that´s",
+                            "can´t",
+                            "I´ll",
+                            "cheeseburg"
+              ]
+}
